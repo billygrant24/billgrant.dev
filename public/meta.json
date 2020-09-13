@@ -1,0 +1,6 @@
+{
+  "name": "Billy Grant",
+  "description": "Experienced Software Engineer",
+  "stack": ["JavaScript", "TypeScript", "Node.js", "PHP", "Ruby", "Go"],
+  "contact": ["hello@billgrant.dev", "GitHub", "LinkedIn"]
+}
